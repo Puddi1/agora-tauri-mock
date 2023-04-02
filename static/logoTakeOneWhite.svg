@@ -1,0 +1,27 @@
+<svg width="210" height="198" viewBox="0 0 210 198" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M21 177H189" stroke="white" stroke-width="5" />
+    <path d="M11 186H200" stroke="white" stroke-width="5" />
+    <path d="M0 195H210" stroke="white" stroke-width="5" />
+    <path
+        d="M173 58.453L161.453 70L173 81.547L184.547 70L173 58.453ZM173 188.461L184.547 176.914L173 165.367L161.453 176.914L173 188.461ZM171 70V176.914H175V70H171Z"
+        fill="white" />
+    <path
+        d="M147 58.453L135.453 70L147 81.547L158.547 70L147 58.453ZM147 188.461L158.547 176.914L147 165.367L135.453 176.914L147 188.461ZM145 70V176.914H149V70H145Z"
+        fill="white" />
+    <path
+        d="M122 58.453L110.453 70L122 81.547L133.547 70L122 58.453ZM122 188.461L133.547 176.914L122 165.367L110.453 176.914L122 188.461ZM120 70V176.914H124V70H120Z"
+        fill="white" />
+    <path
+        d="M87 58.453L75.453 70L87 81.547L98.547 70L87 58.453ZM87 188.461L98.547 176.914L87 165.367L75.453 176.914L87 188.461ZM85 70V176.914H89V70H85Z"
+        fill="white" />
+    <path
+        d="M62 58.453L50.453 70L62 81.547L73.547 70L62 58.453ZM62 188.461L73.547 176.914L62 165.367L50.453 176.914L62 188.461ZM60 70V176.914H64V70H60Z"
+        fill="white" />
+    <path
+        d="M37 58.453L25.453 70L37 81.547L48.547 70L37 58.453ZM37 188.461L48.547 176.914L37 165.367L25.453 176.914L37 188.461ZM35 70V176.914H39V70H35Z"
+        fill="white" />
+    <path d="M21.5 181.5H190.5" stroke="black" stroke-width="4" />
+    <path d="M21 64H190" stroke="black" stroke-width="16" />
+    <path d="M16 70H194" stroke="white" stroke-width="5" stroke-linecap="round" />
+    <path d="M16 70L104.791 4L194 70" stroke="white" stroke-width="5" stroke-linecap="round" />
+</svg>

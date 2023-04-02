@@ -1,0 +1,34 @@
+{
+	"name": "agora-tauri",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"tauri": "tauri"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/adapter-static": "^1.0.0-next.50",
+		"@sveltejs/kit": "^1.5.0",
+		"@tauri-apps/cli": "^1.2.3",
+		"svelte": "^3.54.0",
+		"vite": "^4.2.0"
+	},
+	"type": "module",
+	"dependencies": {
+		"@tauri-apps/api": "^1.2.0",
+		"b4a": "^1.6.3",
+		"corestore": "^6.5.1",
+		"debounceify": "^1.0.0",
+		"execa": "^7.1.1",
+		"graceful-goodbye": "^1.2.1",
+		"hyperbee": "^2.7.1",
+		"hypercore": "^10.8.1",
+		"hyperdrive": "^11.0.0-alpha.10",
+		"hyperswarm": "^4.4.0",
+		"localdrive": "^1.6.0",
+		"pkg": "^5.8.1"
+	}
+}
